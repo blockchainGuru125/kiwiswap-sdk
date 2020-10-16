@@ -1,16 +1,16 @@
 {
   "name": "@kiwiswap/sdk",
   "license": "MIT",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "🛠 An SDK for building applications on top of kiwiswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/pancakeswap/pancakeswap-sdk.git",
+  "repository": "https://github.com/kiwifinance/kiwiswap-sdk.git",
   "keywords": [
-    "pancakeswap",
+    "kiwiswap",
     "ethereum"
   ],
   "module": "dist/sdk.esm.js",
@@ -24,7 +24,7 @@
     "prepublishOnly": "tsdx build"
   },
   "dependencies": {
-    "@pancakeswap-libs/pancake-swap-core": "^0.1.0",
+    "@kiwiswap/kiwiswap-core": "^0.1.0",
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.0",
     "jsbi": "^3.1.1",

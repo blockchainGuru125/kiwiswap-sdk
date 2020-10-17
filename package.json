@@ -1,7 +1,7 @@
 {
-  "name": "@kiwiswap/sdk",
+  "name": "@kiwiswap/kiwiswap-sdk",
   "license": "MIT",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "🛠 An SDK for building applications on top of kiwiswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -24,7 +24,7 @@
     "prepublishOnly": "tsdx build"
   },
   "dependencies": {
-    "@kiwiswap/kiwiswap-core": "^0.1.0",
+    "@kiwiswap/kiwiswap-core": "0.1.2",
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.0",
     "jsbi": "^3.1.1",

@@ -1253,10 +1253,10 @@
     "@types/istanbul-reports" "^1.1.1"
     "@types/yargs" "^13.0.0"
 
-"@kiwiswap/kiwiswap-core@0.1.2":
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/@kiwiswap/kiwiswap-core/-/kiwiswap-core-0.1.2.tgz#b677fe3b6fb516048000c850fd41beeff751ad1d"
-  integrity sha512-Y76Z5L6ZuZuIZVV7zytyn6gf4ZISyel0ABee/jEYbNj7/UY85IRRmcek1uDMjDIv2a9EwiK9Au7ExwFmbfqsYA==
+"@kiwiswap/kiwiswap-core@0.1.3":
+  version "0.1.3"
+  resolved "https://registry.yarnpkg.com/@kiwiswap/kiwiswap-core/-/kiwiswap-core-0.1.3.tgz#5acfffd2cd94288a6c051d1c4b1b27624e5b480f"
+  integrity sha512-xvi978m9Ixt3BuqxNvtFyoXoiWiy7alEK/+59T5YbuP8Rt0wybDw9Sp42rlSWWuhcD693igy9nphqLfW+hO85A==
   dependencies:
     truffle "^5.1.41"
     truffle-flattener "^1.4.4"
